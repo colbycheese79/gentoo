@@ -16,7 +16,7 @@ set $term foot
 
 set $menu fuzzel 
 
-output * bg ~/builds/gentoo/wallpaper/outrun.jpg fill mode 1920x1080@75Hz max_render_time 8
+output * bg ~/builds/gentoo/wallpaper/outrun.png fill mode 1920x1080@75Hz max_render_time 8
 
 ### Key bindings
 #
